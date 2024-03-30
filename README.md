@@ -1,1 +1,1 @@
-El "test" se creó en main de manera muy burda pueso que no sé cómo usar junit
+El "test" se creó en el archivo "main" de manera muy burda puesto que no sé cómo usar junit
