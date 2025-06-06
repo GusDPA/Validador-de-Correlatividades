@@ -3,7 +3,7 @@ package domain;
 import java.util.ArrayList;
 
 public class Materia {
-    private ArrayList<Materia> correlativas;
+    private ArrayList<Materia> correlativas = new ArrayList<>();
     public ArrayList<Materia> getCorrelativas() {
         return correlativas;
     }
